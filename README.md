@@ -9,22 +9,15 @@ This repository contains my projects, notebooks, and experiments where I analyze
 
 ## Tech Stack
 
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-- Seaborn
-- TensorFlow
+- 🐍 Python
+- 📊 Data Analysis
+- 📈 Data Visualization
+- 🤖 Machine Learning
+- 🌍 Real-World Problems
 
 ---
 
 ## Projects
-
-- Customer Segmentation
-- House Price Prediction
-- Sentiment Analysis
-- Sales Forecasting
 
 More projects coming soon...
 
@@ -34,11 +27,11 @@ More projects coming soon...
 
 I also share my learning journey and project explanations on Medium.
 
-Medium: https://medium.com/@yourusername
+Medium: https://medium.com/@aslangamzenur079
 
 ---
 
 ## Contact
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourusername
+- GitHub: https://github.com/GamzeNurAslan
+- LinkedIn: https://www.linkedin.com/in/gamze-nur-aslan2707/
