@@ -642,6 +642,28 @@ print(-3 ** 2 + (-3) ** 2)
 
 [2] Unlike other languages, special characters such as \n have the same meaning with both single ('...') and double ("...") quotes. The only difference between the two is that within single quotes you don’t need to escape " (but you have to escape \') and vice versa.
 
+-----
+
+---
+
+## 🎉 Tebrikler!
+
+Bu çalışma setinin sonuna ulaştınız. Python'un temel sözdizimi, veri tipleri, string işlemleri, listeler, indeksleme, dilimleme ve döngüler gibi birçok önemli konuyu tekrar etmiş oldunuz.
+
+Eğer bazı sorularda zorlandıysanız endişelenmeyin; programlama öğrenmenin en etkili yolu bol bol pratik yapmak, hata yapmak ve hatalardan öğrenmektir. 🚀
+
+### ⭐ GitHub
+
+Bu içerik faydalı olduysa projeye yıldız (⭐) vermeyi ve depoyu takip etmeyi unutmayın.
+
+**Happy Coding! 🐍💻**
+
+> “Programs must be written for people to read, and only incidentally for machines to execute.”  
+> — Harold Abelson
+
+---
+
+Made with ❤️ and PeonyCode_GNA
 
 
 
