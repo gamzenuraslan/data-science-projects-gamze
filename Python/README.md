@@ -8,4 +8,4 @@
 - [x] STEP 3 — Object Oriented Programming ***
 - [x] STEP 4 — NumPy & Pandas ***
 - [x] STEP 5 — Data Visualization ***
-- [ ] STEP 6 — Machine Learning ***
+- [x] STEP 6 — Machine Learning ***
