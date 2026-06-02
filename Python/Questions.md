@@ -644,8 +644,6 @@ print(-3 ** 2 + (-3) ** 2)
 
 -----
 
----
-
 ## 🎉 Tebrikler!
 
 Bu çalışma setinin sonuna ulaştınız. Python'un temel sözdizimi, veri tipleri, string işlemleri, listeler, indeksleme, dilimleme ve döngüler gibi birçok önemli konuyu tekrar etmiş oldunuz.
